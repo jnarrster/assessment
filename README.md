@@ -1,8 +1,11 @@
 Assessment
 
-Get started
+To Run:
 * Install dependencies: npm install
 * Run tests: npx wdio
 
-See the report
+To View Report:
 npx allure open
+
+Assumptions:
+* Using a Chrome Browser
